@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Testando uma atualização de arquivo...
+=======
+Testando uma atualização de arquivo. x
+>>>>>>> 54c1382462f411d5d8a282e8ff7cdad70f063345
