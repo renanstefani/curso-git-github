@@ -1,3 +1,5 @@
 Testando uma atualização de arquivo. xxx
 
 Enviando funcionalidade X.
+
+Enviando funcionalidade B.
