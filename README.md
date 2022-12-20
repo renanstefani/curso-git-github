@@ -12,3 +12,9 @@ Checkout, Produto, Catálogo.
 * HTML
 * CSS
 * JavaScript
+
+### Lista ordenada:
+
+1. Membros
+2. Pagamentos
+3. Bônus
