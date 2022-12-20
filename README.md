@@ -6,3 +6,9 @@ Teremos exemplos diversos buscando apenas a prática.
 ## Funcionalidades
 
 Checkout, Produto, Catálogo.
+
+### Criando listas com markdown:
+
+* HTML
+* CSS
+* JavaScript
