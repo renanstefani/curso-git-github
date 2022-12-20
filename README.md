@@ -15,6 +15,9 @@ Checkout, Produto, Catálogo.
 
 ### Lista ordenada:
 
-1. Membros
+1. Clientes
+    1. Cadastro de clientes
+    2. Login de clientes
+    3. Informações
 2. Pagamentos
 3. Bônus
