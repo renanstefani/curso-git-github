@@ -37,3 +37,11 @@ Checkout, Produto, Catálogo.
 [https://www.w3schools.com/](https://www.w3schools.com/)
 
 [![Logo markdown](img/logomarkdown.png)](https://github.com/renanstefani)
+
+## Inserindo código
+
+```javascript
+function soma(a, b){
+    return a + b;
+}
+```
