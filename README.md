@@ -50,4 +50,4 @@ function soma(a, b){
 
 - [x] Clientes
 - [x] Pagamentos
-- [] Bônus
+- [ ] Bônus
