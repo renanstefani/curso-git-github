@@ -25,3 +25,7 @@ Checkout, Produto, Catálogo.
 #### Imagem local
 
 ![Logo markdown](img/logomarkdown.png)
+
+#### Imagem externa
+
+![Logo do github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
