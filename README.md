@@ -24,4 +24,4 @@ Checkout, Produto, Catálogo.
 
 #### Imagem local
 
-![Logo markdown](img/markdown-logo.png)
+![Logo markdown](img/logomarkdown.png)
