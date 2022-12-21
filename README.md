@@ -29,3 +29,7 @@ Checkout, Produto, Catálogo.
 #### Imagem externa
 
 ![Logo do github](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+
+## Inserindo links
+
+[LinkedIn](https://www.linkedin.com/in/renanstefani/)
