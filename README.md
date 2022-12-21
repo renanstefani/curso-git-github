@@ -33,3 +33,7 @@ Checkout, Produto, Catálogo.
 ## Inserindo links
 
 [LinkedIn](https://www.linkedin.com/in/renanstefani/)
+
+[https://www.w3schools.com/](https://www.w3schools.com/)
+
+[![Logo markdown](img/logomarkdown.png)](https://github.com/renanstefani)
