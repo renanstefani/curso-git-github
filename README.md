@@ -21,3 +21,7 @@ Checkout, Produto, Catálogo.
     3. Informações
 2. Pagamentos
 3. Bônus
+
+#### Imagem local
+
+![Logo markdown](img/markdown-logo.png)
